@@ -1,0 +1,4 @@
+20-1602501 12345 Santhosh 9.5 85.0 5000 santhosh@gmail.com 9618583611 
+20-1602101 123 Meghana 9.8 83.0 0 meghana@gmail.com 9876543210 
+20-1602102 1234 Mannem 9.0 80.0 10000 mannem@gmail.com 9876453210 
+20-1602103 asdf Laxmi 7.0 0.0 0 laxmi@gmail.com 9875614230 

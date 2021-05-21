@@ -36,7 +36,7 @@ Develop a program in java using OOP concepts to built a simple software for stud
   <li>Separate classes are used for fee paid details, cgpa, attendance and details of students.</li>
   <li>The user can choose the operation from the list and as per the users request the details will be displayed.</li>
   <li>Faculty can access student’s details and check their results.</li>
-</ui>
+</ul>
 
 <h1>CONCLUSION</h1>
 To conclude, the system is developed in such a way that the user with common knowledge of computers can handle it easily. The system developed is user friendly and efficient in achieving basic goals. It takes care of all the constrains which have specified in code. It is beneficial for the concerned aspects. Application developed is realistic and secure.

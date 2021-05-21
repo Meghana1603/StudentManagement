@@ -6,7 +6,6 @@ public class attendanceException extends Exception {
 	{
 		super(condition);
 		exceptionCondition=condition;
-		
 	}
 	public String toString()
 	{

@@ -33,6 +33,7 @@ public class SendEmail {
                 return new PasswordAuthentication(username , password);
             }
         });
+		
         // Start our mail message
         MimeMessage msg = new MimeMessage(session);
         try {
